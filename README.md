@@ -12,10 +12,6 @@ This project is designed to perform cross-browser testing using Selenium WebDriv
 - [Logging](#logging)
 - [License](#license)
 
-![Website Screenshot1](ref/Img_1.png)
-![Website Screenshot2](ref/Img_2.png)
-![Website Screenshot3](ref/Img_3.png)
-![Website Screenshot4](ref/Img_4.png)
 [![Watch the demo video](https://github.com/Only1JohnN/simple-login-automation_basic-approach/raw/main/ref/thumbnail.png)](https://youtu.be/7WdKkNK1MEo?si=yG3gtd6T_E5lSXWa)
 
 
