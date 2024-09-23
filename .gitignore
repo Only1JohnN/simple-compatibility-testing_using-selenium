@@ -1,0 +1,64 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python virtual environment folder
+myenv/
+
+# Python-specific ignores
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE/editor specific files (Optional)
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
